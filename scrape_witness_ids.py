@@ -68,9 +68,14 @@ def main():
     output_file = 'full_witness_meetings_output.csv'
     existing_data = []
     if os.path.exists(output_file):
+        print(f"File {output_file} found.")
         existing_data = pd.read_csv(output_file).to_dict('records')
+    else:
+        print(f"File {output_file} not found. Creating a new file.")
     
-    sorted_witness_ids_df = pd.read_csv('sorted_witness_ids.csv')
+    # Download the latest sorted witness IDs from the URL
+    sorted_witness_ids_url = 'https://github.com/PatLittle/sandbox_ATIA-data-pipelines/raw/main/sorted_witness_ids.csv'
+    sorted_witness_ids_df = pd.read_csv(sorted_witness_ids_url)
     sorted_witness_ids = sorted_witness_ids_df['Witness ID'].tolist()
     fieldnames = ['Witness ID', 'Witness Name', 'Title', 'Organization', 'Meeting Name', 'Date', 'Time', 'Acronym', 'Notice Link', 'Evidence Link', 'Minutes Link']
     
