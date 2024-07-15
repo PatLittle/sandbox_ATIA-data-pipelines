@@ -4,6 +4,7 @@ import csv
 from bs4 import BeautifulSoup
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from tqdm import tqdm
+import os
 import multiprocessing
 
 def fetch_data(witness_id, index):
@@ -15,9 +16,6 @@ def fetch_data(witness_id, index):
         print(f"Failed to fetch data for witness ID {witness_id}")
         return []
     soup = BeautifulSoup(response.content, 'html.parser')
-    if index % 50 == 0:
-        print(f"Content fetched for witness ID {witness_id}:")
-        print(soup.prettify()[:1000])
     witness_details = soup.select_one('div.witness-details')
     if not witness_details:
         print(f"No witness details found for witness ID {witness_id}")
@@ -62,19 +60,29 @@ def fetch_data(witness_id, index):
                 'Evidence Link': f"https://www.ourcommons.ca{evidence_link}" if evidence_link != "N/A" else "N/A",
                 'Minutes Link': f"https://www.ourcommons.ca{minutes_link}" if minutes_link != "N/A" else "N/A"
             }
-            if index % 50 == 0:
-                print(f"Scraped data: {meeting_data}")
             meetings.append(meeting_data)
     return meetings
 
 def main():
+    # Load existing data if the file exists
+    output_file = 'full_witness_meetings_output.csv'
+    existing_data = []
+    if os.path.exists(output_file):
+        existing_data = pd.read_csv(output_file).to_dict('records')
+    
     sorted_witness_ids_df = pd.read_csv('sorted_witness_ids.csv')
     sorted_witness_ids = sorted_witness_ids_df['Witness ID'].tolist()
     fieldnames = ['Witness ID', 'Witness Name', 'Title', 'Organization', 'Meeting Name', 'Date', 'Time', 'Acronym', 'Notice Link', 'Evidence Link', 'Minutes Link']
+    
     try:
-        with open('full_witness_meetings_output.csv', mode='w', newline='', encoding='utf-8') as f:
+        with open(output_file, mode='w', newline='', encoding='utf-8') as f:
             writer = csv.DictWriter(f, fieldnames=fieldnames)
             writer.writeheader()
+            
+            # Write existing data
+            if existing_data:
+                writer.writerows(existing_data)
+            
             num_workers = min(32, (multiprocessing.cpu_count() or 1) * 4)
             with ThreadPoolExecutor(max_workers=num_workers) as executor:
                 futures = {executor.submit(fetch_data, wid, idx): wid for idx, wid in enumerate(sorted_witness_ids)}
