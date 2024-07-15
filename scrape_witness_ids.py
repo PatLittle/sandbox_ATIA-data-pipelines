@@ -6,6 +6,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from tqdm import tqdm
 import os
 import multiprocessing
+from datetime import datetime
 
 def fetch_data(witness_id, index):
     url = f"https://www.ourcommons.ca/committees/en/WitnessMeetings?witnessId={witness_id}"
@@ -28,7 +29,8 @@ def fetch_data(witness_id, index):
     organization = org_elem.text.strip() if org_elem else "N/A"
     meetings = []
     for grouping in soup.select('div.grouping-header'):
-        date = grouping.text.strip()
+        date_str = grouping.text.strip()
+        date = datetime.strptime(date_str, '%A, %B %d, %Y').strftime('%Y-%m-%d')
         for meeting_item in grouping.find_next_siblings('div', class_='accordion-item'):
             meeting_name_elem = meeting_item.select_one('div.meeting-title-main')
             if not meeting_name_elem:
@@ -91,11 +93,15 @@ def main():
             num_workers = min(32, (multiprocessing.cpu_count() or 1) * 4)
             with ThreadPoolExecutor(max_workers=num_workers) as executor:
                 futures = {executor.submit(fetch_data, wid, idx): wid for idx, wid in enumerate(sorted_witness_ids)}
+                all_meetings = []
                 for future in tqdm(as_completed(futures), total=len(futures)):
                     result = future.result()
-                    wid = futures[future]
                     if result:
-                        writer.writerows(result)
+                        all_meetings.extend(result)
+                # Remove duplicates
+                all_meetings_df = pd.DataFrame(all_meetings)
+                all_meetings_df.drop_duplicates(inplace=True)
+                writer.writerows(all_meetings_df.to_dict('records'))
     except Exception as e:
         print(f"An error occurred: {e}")
 
