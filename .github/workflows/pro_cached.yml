@@ -1,0 +1,19 @@
+name: Process Cached CSV
+
+on:
+  workflow_dispatch:
+
+jobs:
+  process-csv:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Restore output.csv from cache
+      uses: actions/cache@v2
+      with:
+        path: output.csv
+        key: flatten-json-output
+        restore-keys: flatten-json-output
