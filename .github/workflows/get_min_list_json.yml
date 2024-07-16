@@ -1,0 +1,28 @@
+
+on:
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron:  '0 5 * * *'
+  workflow_dispatch:
+  
+jobs:
+  get_min_list_from_ckanext-can_repo:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    
+    - name: Get JSON
+      run: |
+        curl -o minister.json https://github.com/open-data/ckanext-canada/raw/master/ckanext/canada/tables/choices/minister.json
+          
+          
+          
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -a -m "updates" --allow-empty
+          git push -f
+          
