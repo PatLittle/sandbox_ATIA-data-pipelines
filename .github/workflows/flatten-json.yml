@@ -28,8 +28,12 @@ jobs:
       run: |
         python flatten_json.py minister.json output.csv
 
-    - name: Cache output.csv
-      uses: actions/cache@v2
-      with:
-        path: output.csv
-        key: flatten-json-output
+    - name: Commit output.csv
+      run: |
+        git config --global user.name 'github-actions'
+        git config --global user.email 'github-actions@github.com'
+        git add output.csv
+        git commit -m 'Add output.csv'
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
