@@ -26,7 +26,7 @@ jobs:
 
     - name: Run flatten_json.py
       run: |
-        python flatten_json.py input.json output.csv
+        python flatten_json.py minister.json output.csv
 
     - name: Cache output.csv
       uses: actions/cache@v2
