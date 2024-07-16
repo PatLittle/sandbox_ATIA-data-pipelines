@@ -17,7 +17,7 @@ jobs:
     
     - name: Get JSON
       run: |
-        curl -o minister.json https://github.com/open-data/ckanext-canada/raw/master/ckanext/canada/tables/choices/minister.json
+        wget https://github.com/open-data/ckanext-canada/raw/master/ckanext/canada/tables/choices/minister.json
                 
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
