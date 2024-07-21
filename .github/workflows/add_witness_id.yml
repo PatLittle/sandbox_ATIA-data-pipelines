@@ -1,4 +1,4 @@
-name: Run Script on Schedule
+name: Add Minister Witness IDs to Files
 
 on:
   schedule:
