@@ -62,7 +62,7 @@ jobs:
         pip install pandas requests
 
     - name: Run the update script
-      run: python update_ministers_with_witness_id.py
+      run: python add_minister_witness_id.py
 
     - name: Commit and push changes
       run: |
