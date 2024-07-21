@@ -35,8 +35,8 @@ jobs:
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
         git add minister.json
-        git commit -m 'Refresh minister.json from XML'
-        git push
+        git commit -m 'Refresh minister.json from XML' --allow-empty
+        git push -f
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
