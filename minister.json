@@ -794,6 +794,15 @@
                 "name_fr": "O'Regan, Seamus (L’hon.)",
                 "start_date": "2023-07-26T10:30:00",
                 "witness_id": 253374
+            },
+            {
+                "honorific": "Hon.",
+                "name": "Steven MacKinnon",
+                "first_name": "Steven",
+                "last_name": "MacKinnon",
+                "title": "Minister of Labour and Seniors",
+                "start_date": "2024-07-19T09:24:00",
+                "end_date": ""
             }
         ]
     },
