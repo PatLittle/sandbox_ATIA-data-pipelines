@@ -69,8 +69,8 @@ jobs:
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
         git add output.csv minister.json
-        git commit -m 'Update ministers with witness ID'
-        git push
+        git commit -m 'Update ministers with witness ID' --allow-empty
+        git push -f
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -103,7 +103,7 @@ jobs:
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
         git add minister_parl_comm_deadlines.csv
-        git commit -m 'Add filtered witness meetings output with disclosure deadline'
-        git push
+        git commit -m 'Add filtered witness meetings output with disclosure deadline' --allow-empty
+        git push -f
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
