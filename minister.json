@@ -1,13 +1,13 @@
 {
     "AGC": {
         "en": "Attorney General of Canada",
-        "fr": "Procureur g\u00e9n\u00e9ral du Canada",
+        "fr": "Procureur général du Canada",
         "ministers": [
             {
                 "end_date": "",
                 "name": "Arif Virani",
                 "name_en": "Virani, Arif (Hon.)",
-                "name_fr": "Virani, Arif (L\u2019hon.)",
+                "name_fr": "Virani, Arif (L’hon.)",
                 "start_date": "2023-07-26T10:30:00",
                 "witness_id": 299999
             },
@@ -15,7 +15,7 @@
                 "end_date": "2023-07-26T10:29:59",
                 "name": "David Lametti",
                 "name_en": "Lametti, David (Hon.)",
-                "name_fr": "Lametti, David (L\u2019hon.)",
+                "name_fr": "Lametti, David (L’hon.)",
                 "start_date": "2019-01-14T10:00:01",
                 "witness_id": 278945
             }
@@ -23,20 +23,20 @@
     },
     "AMF": {
         "en": "Associate Minister of Finance",
-        "fr": "Ministre associ\u00e9e des Finances",
+        "fr": "Ministre associée des Finances",
         "ministers": [
             {
                 "end_date": "2023-07-26T10:29:59",
                 "name": "Randy Boissonnault",
                 "name_en": "Boissonnault, Randy (Hon.)",
-                "name_fr": "Boissonnault, Randy (L\u2019hon.)",
+                "name_fr": "Boissonnault, Randy (L’hon.)",
                 "start_date": "2021-10-26T10:30:00"
             },
             {
                 "end_date": "2021-10-26T10:29:59",
                 "name": "Mona Fortier",
                 "name_en": "Fortier, Mona (Hon.)",
-                "name_fr": "Fortier, Mona (L\u2019hon.)",
+                "name_fr": "Fortier, Mona (L’hon.)",
                 "start_date": "2019-11-20T15:00:00",
                 "witness_id": 278907
             }
@@ -44,13 +44,13 @@
     },
     "AMH": {
         "en": "Associate Minister of Health",
-        "fr": "Ministre associ\u00e9e de la sant\u00e9",
+        "fr": "Ministre associée de la santé",
         "ministers": [
             {
                 "end_date": "",
                 "name": "Ya'ara Saks",
                 "name_en": "Saks, Ya'ara (Hon.)",
-                "name_fr": "Saks, Ya'ara (L\u2019hon.)",
+                "name_fr": "Saks, Ya'ara (L’hon.)",
                 "start_date": "2023-07-26T10:30:00",
                 "witness_id": 300007
             },
@@ -58,7 +58,7 @@
                 "end_date": "2023-07-26T10:29:59",
                 "name": "Carolyn Bennett",
                 "name_en": "Bennett, Carolyn (Hon.)",
-                "name_fr": "Bennett, Carolyn (L\u2019hon.)",
+                "name_fr": "Bennett, Carolyn (L’hon.)",
                 "start_date": "2021-10-26T10:30:00",
                 "witness_id": 278939
             }
@@ -66,13 +66,13 @@
     },
     "AMND": {
         "en": "Associate Minister of National Defence",
-        "fr": "Ministre associ\u00e9 de la D\u00e9fense nationale",
+        "fr": "Ministre associé de la Défense nationale",
         "ministers": [
             {
                 "end_date": "",
                 "name": "Ginette Petitpas Taylor",
                 "name_en": "Petitpas Taylor, Ginette (Hon.)",
-                "name_fr": "Petitpas Taylor, Ginette (L\u2019hon.)",
+                "name_fr": "Petitpas Taylor, Ginette (L’hon.)",
                 "start_date": "2023-07-26T10:30:00",
                 "witness_id": 300036
             },
@@ -80,7 +80,7 @@
                 "end_date": "2023-07-26T10:29:59",
                 "name": "Lawrence MacAulay",
                 "name_en": "MacAulay, Lawrence (Hon.)",
-                "name_fr": "MacAulay, Lawrence (L\u2019hon.)",
+                "name_fr": "MacAulay, Lawrence (L’hon.)",
                 "start_date": "2019-03-01T10:30:01",
                 "witness_id": 246259
             }
@@ -88,13 +88,13 @@
     },
     "DPM": {
         "en": "Deputy Prime Minister",
-        "fr": "Vice-premi\u00e8re ministre",
+        "fr": "Vice-première ministre",
         "ministers": [
             {
                 "end_date": "",
                 "name": "Chrystia Freeland",
                 "name_en": "Freeland, Chrystia (Hon.)",
-                "name_fr": "Freeland, Chrystia (L\u2019hon.)",
+                "name_fr": "Freeland, Chrystia (L’hon.)",
                 "start_date": "2019-11-20T15:00:00",
                 "witness_id": 253365
             }
@@ -102,13 +102,13 @@
     },
     "LGHC": {
         "en": "Leader of the Government in the House of Commons",
-        "fr": "Leader du gouvernement \u00e0 la Chambre des communes",
+        "fr": "Leader du gouvernement à la Chambre des communes",
         "ministers": [
             {
                 "end_date": "",
                 "name": "Karina Gould",
                 "name_en": "Gould, Karina (Hon.)",
-                "name_fr": "Gould, Karina (L\u2019hon.)",
+                "name_fr": "Gould, Karina (L’hon.)",
                 "start_date": "2023-07-26T10:30:00",
                 "witness_id": 253393
             },
@@ -116,7 +116,7 @@
                 "end_date": "2023-07-26T10:29:59",
                 "name": "Mark Holland",
                 "name_en": "Holland, Mark (Hon.)",
-                "name_fr": "Holland, Mark (L\u2019hon.)",
+                "name_fr": "Holland, Mark (L’hon.)",
                 "start_date": "2021-10-26T10:30:00",
                 "witness_id": 300010
             },
@@ -124,7 +124,7 @@
                 "end_date": "2021-10-26T10:29:59",
                 "name": "Pablo Rodriguez",
                 "name_en": "Rodriguez, Pablo (Hon.)",
-                "name_fr": "Rodriguez, Pablo (L\u2019hon.)",
+                "name_fr": "Rodriguez, Pablo (L’hon.)",
                 "start_date": "2019-11-20T15:00:00",
                 "witness_id": 300025
             }
@@ -138,7 +138,7 @@
                 "end_date": "",
                 "name": "Lawrence MacAulay",
                 "name_en": "MacAulay, Lawrence (Hon.)",
-                "name_fr": "MacAulay, Lawrence (L\u2019hon.)",
+                "name_fr": "MacAulay, Lawrence (L’hon.)",
                 "start_date": "2023-07-26T10:30:00",
                 "witness_id": 246259
             },
@@ -146,7 +146,7 @@
                 "end_date": "2023-07-26T10:29:59",
                 "name": "Marie-Claude Bibeau",
                 "name_en": "Bibeau, Marie-Claude (Hon.)",
-                "name_fr": "Bibeau, Marie-Claude (L\u2019hon.)",
+                "name_fr": "Bibeau, Marie-Claude (L’hon.)",
                 "start_date": "2019-03-01T10:30:01"
             }
         ]
@@ -159,7 +159,7 @@
                 "end_date": "",
                 "name": "Pascale St-Onge",
                 "name_en": "St-Onge, Pascale (Hon.)",
-                "name_fr": "St-Onge, Pascale (L\u2019hon.)",
+                "name_fr": "St-Onge, Pascale (L’hon.)",
                 "start_date": "2023-07-26T10:30:00",
                 "witness_id": 278949
             },
@@ -167,7 +167,7 @@
                 "end_date": "2023-07-26T10:29:59",
                 "name": "Pablo Rodriguez",
                 "name_en": "Rodriguez, Pablo (Hon.)",
-                "name_fr": "Rodriguez, Pablo (L\u2019hon.)",
+                "name_fr": "Rodriguez, Pablo (L’hon.)",
                 "start_date": "2021-10-26T10:30:00",
                 "witness_id": 300025
             },
@@ -175,7 +175,7 @@
                 "end_date": "2021-10-26T10:29:59",
                 "name": "Steven Guilbeault",
                 "name_en": "Guilbeault, Steven (Hon.)",
-                "name_fr": "Guilbeault, Steven (L\u2019hon.)",
+                "name_fr": "Guilbeault, Steven (L’hon.)",
                 "start_date": "2019-11-20T15:00:00",
                 "witness_id": 278910
             }
@@ -189,7 +189,7 @@
                 "end_date": "",
                 "name": "Gary Anandasangaree",
                 "name_en": "Anandasangaree, Gary (Hon.)",
-                "name_fr": "Anandasangaree, Gary (L\u2019hon.)",
+                "name_fr": "Anandasangaree, Gary (L’hon.)",
                 "start_date": "2023-07-26T10:30:00",
                 "witness_id": 299998
             },
@@ -197,7 +197,7 @@
                 "end_date": "2023-07-26T10:29:59",
                 "name": "Marc Miller",
                 "name_en": "Miller, Marc (Hon.)",
-                "name_fr": "Miller, Marc (L\u2019hon.)",
+                "name_fr": "Miller, Marc (L’hon.)",
                 "start_date": "2021-10-26T10:30:00",
                 "witness_id": 253378
             },
@@ -205,21 +205,21 @@
                 "end_date": "2021-10-26T10:29:59",
                 "name": "Carolyn Bennett",
                 "name_en": "Bennett, Carolyn (Hon.)",
-                "name_fr": "Bennett, Carolyn (L\u2019hon.)",
+                "name_fr": "Bennett, Carolyn (L’hon.)",
                 "start_date": "2017-08-28T13:12:00",
                 "witness_id": 278939
             }
         ]
     },
     "MCS": {
-        "en": "Minister of Citizens\u2019 Services",
+        "en": "Minister of Citizens’ Services",
         "fr": "Ministre des services aux citoyens",
         "ministers": [
             {
                 "end_date": "",
                 "name": "Terry Beech",
                 "name_en": "Beech, Terry (Hon.)",
-                "name_fr": "Beech, Terry (L\u2019hon.)",
+                "name_fr": "Beech, Terry (L’hon.)",
                 "start_date": "2023-07-26T10:30:00",
                 "witness_id": 300037
             }
@@ -227,13 +227,13 @@
     },
     "MDG": {
         "en": "Minister of Digital Government",
-        "fr": "Ministre du Gouvernement num\u00e9rique",
+        "fr": "Ministre du Gouvernement numérique",
         "ministers": [
             {
                 "end_date": "2021-10-26T10:29:59",
                 "name": "Joyce Murray",
                 "name_en": "Murray, Joyce (Hon.)",
-                "name_fr": "Murray, Joyce (L\u2019hon.)",
+                "name_fr": "Murray, Joyce (L’hon.)",
                 "start_date": "2019-03-18T00:00:00",
                 "witness_id": 278923
             }
@@ -241,13 +241,13 @@
     },
     "MDIPD": {
         "en": "Minister of Diversity, Inclusion and Persons with Disabilities",
-        "fr": "Ministre de la diversit\u00e9, de l\u2019inclusion et des personnes en situation de handicap",
+        "fr": "Ministre de la diversité, de l’inclusion et des personnes en situation de handicap",
         "ministers": [
             {
                 "end_date": "",
                 "name": "Kamal Khera",
                 "name_en": "Khera, Kamal (Hon.)",
-                "name_fr": "Khera, Kamal (L\u2019hon.)",
+                "name_fr": "Khera, Kamal (L’hon.)",
                 "start_date": "2023-07-26T10:30:00",
                 "witness_id": 278919
             }
@@ -255,13 +255,13 @@
     },
     "MDIY": {
         "en": "Minister of Diversity and Inclusion and Youth",
-        "fr": "Ministre de la Diversit\u00e9 et de l\u2019Inclusion et de la Jeunesse",
+        "fr": "Ministre de la Diversité et de l’Inclusion et de la Jeunesse",
         "ministers": [
             {
                 "end_date": "2021-10-26T10:29:59",
                 "name": "Bardish Chagger",
                 "name_en": "Chagger, Bardish (Hon.)",
-                "name_fr": "Chagger, Bardish (L\u2019hon.)",
+                "name_fr": "Chagger, Bardish (L’hon.)",
                 "start_date": "2019-11-20T15:00:00",
                 "witness_id": 253404
             }
@@ -275,7 +275,7 @@
                 "end_date": "",
                 "name": "Steven Guilbeault",
                 "name_en": "Guilbeault, Steven (Hon.)",
-                "name_fr": "Guilbeault, Steven (L\u2019hon.)",
+                "name_fr": "Guilbeault, Steven (L’hon.)",
                 "start_date": "2021-10-26T10:30:00",
                 "witness_id": 278910
             },
@@ -283,7 +283,7 @@
                 "end_date": "2021-10-26T10:29:59",
                 "name": "Jonathan Wilkinson",
                 "name_en": "Wilkinson, Jonathan (Hon.)",
-                "name_fr": "Wilkinson, Jonathan (L\u2019hon.)",
+                "name_fr": "Wilkinson, Jonathan (L’hon.)",
                 "start_date": "2019-11-20T15:00:00",
                 "witness_id": 278937
             }
@@ -291,13 +291,13 @@
     },
     "MED": {
         "en": "Minister of Economic Development",
-        "fr": "Ministre du D\u00e9veloppement \u00e9conomique",
+        "fr": "Ministre du Développement économique",
         "ministers": [
             {
                 "end_date": "2021-10-26T10:29:59",
-                "name": "M\u00e9lanie Joly",
-                "name_en": "Joly, M\u00e9lanie (Hon.)",
-                "name_fr": "Joly, M\u00e9lanie (L\u2019hon.)",
+                "name": "Mélanie Joly",
+                "name_en": "Joly, Mélanie (Hon.)",
+                "name_fr": "Joly, Mélanie (L’hon.)",
                 "start_date": "2019-11-20T15:00:00",
                 "witness_id": 253380
             }
@@ -305,13 +305,13 @@
     },
     "MENR": {
         "en": "Minister of Energy and Natural Resources",
-        "fr": "Ministre de l\u2019\u00e9nergie et des ressources naturelles",
+        "fr": "Ministre de l’énergie et des ressources naturelles",
         "ministers": [
             {
                 "end_date": "",
                 "name": "Jonathan Wilkinson",
                 "name_en": "Wilkinson, Jonathan (Hon.)",
-                "name_fr": "Wilkinson, Jonathan (L\u2019hon.)",
+                "name_fr": "Wilkinson, Jonathan (L’hon.)",
                 "start_date": "2023-07-26T10:30:00",
                 "witness_id": 278937
             }
@@ -325,7 +325,7 @@
                 "end_date": "",
                 "name": "Harjit S. Sajjan",
                 "name_en": "Sajjan, Harjit S. (Hon.)",
-                "name_fr": "Sajjan, Harjit S. (L\u2019hon.)",
+                "name_fr": "Sajjan, Harjit S. (L’hon.)",
                 "start_date": "2023-07-26T10:30:00",
                 "witness_id": 300020
             },
@@ -333,7 +333,7 @@
                 "end_date": "2023-07-26T10:29:59",
                 "name": "Bill Blair",
                 "name_en": "Blair, Bill (Hon.)",
-                "name_fr": "Blair, Bill (L\u2019hon.)",
+                "name_fr": "Blair, Bill (L’hon.)",
                 "start_date": "2021-10-26T10:30:00",
                 "witness_id": 278903
             }
@@ -341,13 +341,13 @@
     },
     "MEPITED": {
         "en": "Minister of Export Promotion, International Trade and Economic Development",
-        "fr": "Ministre de la promotion des exportations, du commerce international et du d\u00e9veloppement \u00e9conomique",
+        "fr": "Ministre de la promotion des exportations, du commerce international et du développement économique",
         "ministers": [
             {
                 "end_date": "",
                 "name": "Mary Ng",
                 "name_en": "Ng, Mary (Hon.)",
-                "name_fr": "Ng, Mary (L\u2019hon.)",
+                "name_fr": "Ng, Mary (L’hon.)",
                 "start_date": "2023-07-26T10:30:00",
                 "witness_id": 253401
             }
@@ -355,13 +355,13 @@
     },
     "MEWDDI": {
         "en": "Minister of Employment, Workforce Development and Disability Inclusion",
-        "fr": "Ministre de l\u2019Emploi, du D\u00e9veloppement de la main-d\u2019\u0153uvre et de l'Inclusion des personnes handicap\u00e9es",
+        "fr": "Ministre de l’Emploi, du Développement de la main-d’œuvre et de l'Inclusion des personnes handicapées",
         "ministers": [
             {
                 "end_date": "2023-07-26T10:29:59",
                 "name": "Carla Qualtrough",
                 "name_en": "Qualtrough, Carla (Hon.)",
-                "name_fr": "Qualtrough, Carla (L\u2019hon.)",
+                "name_fr": "Qualtrough, Carla (L’hon.)",
                 "start_date": "2021-10-26T10:30:00",
                 "witness_id": 300028
             },
@@ -369,7 +369,7 @@
                 "end_date": "2021-10-26T10:29:59",
                 "name": "Carla Qualtrough",
                 "name_en": "Qualtrough, Carla (Hon.)",
-                "name_fr": "Qualtrough, Carla (L\u2019hon.)",
+                "name_fr": "Qualtrough, Carla (L’hon.)",
                 "start_date": "2019-11-20T15:00:00",
                 "witness_id": 300028
             }
@@ -377,13 +377,13 @@
     },
     "MEWDOL": {
         "en": "Minister of Employment, Workforce Development and Official Languages",
-        "fr": "Ministre de l\u2019emploi, du d\u00e9veloppement de la main-d\u2019\u0153uvre et des langues officielles",
+        "fr": "Ministre de l’emploi, du développement de la main-d’œuvre et des langues officielles",
         "ministers": [
             {
                 "end_date": "",
                 "name": "Randy Boissonnault",
                 "name_en": "Boissonnault, Randy (Hon.)",
-                "name_fr": "Boissonnault, Randy (L\u2019hon.)",
+                "name_fr": "Boissonnault, Randy (L’hon.)",
                 "start_date": "2023-07-26T10:30:00"
             }
         ]
@@ -396,7 +396,7 @@
                 "end_date": "",
                 "name": "Chrystia Freeland",
                 "name_en": "Freeland, Chrystia (Hon.)",
-                "name_fr": "Freeland, Chrystia (L\u2019hon.)",
+                "name_fr": "Freeland, Chrystia (L’hon.)",
                 "start_date": "2020-08-18T15:00:00",
                 "witness_id": 253365
             },
@@ -404,7 +404,7 @@
                 "end_date": "2020-08-17T23:59:59",
                 "name": "Bill Morneau",
                 "name_en": "Morneau, Bill (Hon.)",
-                "name_fr": "Morneau, Bill (L\u2019hon.)",
+                "name_fr": "Morneau, Bill (L’hon.)",
                 "start_date": "2015-11-04T10:45:00",
                 "witness_id": 214320
             }
@@ -412,13 +412,13 @@
     },
     "MFA": {
         "en": "Minister of Foreign Affairs",
-        "fr": "Ministre des Affaires \u00e9trang\u00e8res",
+        "fr": "Ministre des Affaires étrangères",
         "ministers": [
             {
                 "end_date": "",
-                "name": "M\u00e9lanie Joly",
-                "name_en": "Joly, M\u00e9lanie (Hon.)",
-                "name_fr": "Joly, M\u00e9lanie (L\u2019hon.)",
+                "name": "Mélanie Joly",
+                "name_en": "Joly, Mélanie (Hon.)",
+                "name_fr": "Joly, Mélanie (L’hon.)",
                 "start_date": "2021-10-26T10:30:00",
                 "witness_id": 253380
             },
@@ -426,15 +426,15 @@
                 "end_date": "2021-10-26T10:29:59",
                 "name": "Marc Garneau",
                 "name_en": "Garneau, Marc (Hon.)",
-                "name_fr": "Garneau, Marc (L\u2019hon.)",
+                "name_fr": "Garneau, Marc (L’hon.)",
                 "start_date": "2021-01-12T00:00:00",
                 "witness_id": 214333
             },
             {
                 "end_date": "2021-01-11T23:59:59",
-                "name": "Fran\u00e7ois-Philippe Champagne",
-                "name_en": "Champagne, Fran\u00e7ois-Philippe (Hon.)",
-                "name_fr": "Champagne, Fran\u00e7ois-Philippe (L\u2019hon.)",
+                "name": "François-Philippe Champagne",
+                "name_en": "Champagne, François-Philippe (Hon.)",
+                "name_fr": "Champagne, François-Philippe (L’hon.)",
                 "start_date": "2019-11-20T15:00:00",
                 "witness_id": 271243
             }
@@ -442,13 +442,13 @@
     },
     "MFCSD": {
         "en": "Minister of Families, Children and Social Development",
-        "fr": "Ministre de la Famille, des Enfants et du D\u00e9veloppement social",
+        "fr": "Ministre de la Famille, des Enfants et du Développement social",
         "ministers": [
             {
                 "end_date": "",
                 "name": "Jenna Sudds",
                 "name_en": "Sudds, Jenna (Hon.)",
-                "name_fr": "Sudds, Jenna (L\u2019hon.)",
+                "name_fr": "Sudds, Jenna (L’hon.)",
                 "start_date": "2023-07-26T10:30:00",
                 "witness_id": 300002
             },
@@ -456,7 +456,7 @@
                 "end_date": "2023-07-26T10:29:59",
                 "name": "Karina Gould",
                 "name_en": "Gould, Karina (Hon.)",
-                "name_fr": "Gould, Karina (L\u2019hon.)",
+                "name_fr": "Gould, Karina (L’hon.)",
                 "start_date": "2021-10-26T10:30:00",
                 "witness_id": 253393
             },
@@ -464,7 +464,7 @@
                 "end_date": "2021-10-26T10:29:59",
                 "name": "Ahmed Hussen",
                 "name_en": "Hussen, Ahmed (Hon.)",
-                "name_fr": "Hussen, Ahmed (L\u2019hon.)",
+                "name_fr": "Hussen, Ahmed (L’hon.)",
                 "start_date": "2019-11-20T15:00:00",
                 "witness_id": 300012
             }
@@ -472,13 +472,13 @@
     },
     "MFOCCG": {
         "en": "Minister of Fisheries, Oceans and the Canadian Coast Guard",
-        "fr": "Ministre des P\u00eaches, des Oc\u00e9ans et de la Garde c\u00f4ti\u00e8re canadienne",
+        "fr": "Ministre des Pêches, des Océans et de la Garde côtière canadienne",
         "ministers": [
             {
                 "end_date": "",
                 "name": "Diane Lebouthillier",
                 "name_en": "Lebouthillier, Diane (Hon.)",
-                "name_fr": "Lebouthillier, Diane (L\u2019hon.)",
+                "name_fr": "Lebouthillier, Diane (L’hon.)",
                 "start_date": "2023-07-26T10:30:00",
                 "witness_id": 278637
             },
@@ -486,7 +486,7 @@
                 "end_date": "2023-07-26T10:29:59",
                 "name": "Joyce Murray",
                 "name_en": "Murray, Joyce (Hon.)",
-                "name_fr": "Murray, Joyce (L\u2019hon.)",
+                "name_fr": "Murray, Joyce (L’hon.)",
                 "start_date": "2021-10-26T10:30:00",
                 "witness_id": 278923
             },
@@ -494,7 +494,7 @@
                 "end_date": "2021-10-26T10:29:59",
                 "name": "Bernadette Jordan",
                 "name_en": "Jordan, Bernadette (Hon.)",
-                "name_fr": "Jordan, Bernadette (L\u2019hon.)",
+                "name_fr": "Jordan, Bernadette (L’hon.)",
                 "start_date": "2019-11-20T15:00:00",
                 "witness_id": 253373
             }
@@ -502,13 +502,13 @@
     },
     "MH": {
         "en": "Minister of Health",
-        "fr": "Ministre de la Sant\u00e9",
+        "fr": "Ministre de la Santé",
         "ministers": [
             {
                 "end_date": "",
                 "name": "Mark Holland",
                 "name_en": "Holland, Mark (Hon.)",
-                "name_fr": "Holland, Mark (L\u2019hon.)",
+                "name_fr": "Holland, Mark (L’hon.)",
                 "start_date": "2023-07-26T10:30:00",
                 "witness_id": 300010
             },
@@ -516,7 +516,7 @@
                 "end_date": "2023-07-26T10:29:59",
                 "name": "Jean-Yves Duclos",
                 "name_en": "Duclos, Jean-Yves (Hon.)",
-                "name_fr": "Duclos, Jean-Yves (L\u2019hon.)",
+                "name_fr": "Duclos, Jean-Yves (L’hon.)",
                 "start_date": "2021-10-26T10:30:00",
                 "witness_id": 253369
             },
@@ -524,7 +524,7 @@
                 "end_date": "2021-10-26T10:29:59",
                 "name": "Patty Hajdu",
                 "name_en": "Hajdu, Patty (Hon.)",
-                "name_fr": "Hajdu, Patty (L\u2019hon.)",
+                "name_fr": "Hajdu, Patty (L’hon.)",
                 "start_date": "2019-11-20T15:00:00",
                 "witness_id": 278911
             }
@@ -532,13 +532,13 @@
     },
     "MHDI": {
         "en": "Minister of Housing and Diversity and Inclusion",
-        "fr": "Ministre du logement et de la diversit\u00e9 et de l\u2019inclusion",
+        "fr": "Ministre du logement et de la diversité et de l’inclusion",
         "ministers": [
             {
                 "end_date": "2023-07-26T10:29:59",
                 "name": "Ahmed Hussen",
                 "name_en": "Hussen, Ahmed (Hon.)",
-                "name_fr": "Hussen, Ahmed (L\u2019hon.)",
+                "name_fr": "Hussen, Ahmed (L’hon.)",
                 "start_date": "2021-10-26T10:30:00",
                 "witness_id": 300012
             }
@@ -546,13 +546,13 @@
     },
     "MHIC": {
         "en": "Minister of Housing, Infrastructure and Communities",
-        "fr": "Ministre du logement, de l\u2019infrastructure et des collectivit\u00e9s",
+        "fr": "Ministre du logement, de l’infrastructure et des collectivités",
         "ministers": [
             {
                 "end_date": "",
                 "name": "Sean Fraser",
                 "name_en": "Fraser, Sean (Hon.)",
-                "name_fr": "Fraser, Sean (L\u2019hon.)",
+                "name_fr": "Fraser, Sean (L’hon.)",
                 "start_date": "2023-07-26T10:30:00",
                 "witness_id": 278908
             }
@@ -566,7 +566,7 @@
                 "end_date": "2021-10-26T10:29:59",
                 "name": "Dominic LeBlanc",
                 "name_en": "LeBlanc, Dominic (Hon.)",
-                "name_fr": "LeBlanc, Dominic (L\u2019hon.)",
+                "name_fr": "LeBlanc, Dominic (L’hon.)",
                 "start_date": "2020-08-18T15:00:00",
                 "witness_id": 263834
             },
@@ -574,7 +574,7 @@
                 "end_date": "2020-08-18T14:59:59",
                 "name": "Chrystia Freeland",
                 "name_en": "Freeland, Chrystia (Hon.)",
-                "name_fr": "Freeland, Chrystia (L\u2019hon.)",
+                "name_fr": "Freeland, Chrystia (L’hon.)",
                 "start_date": "2019-11-20T15:00:00",
                 "witness_id": 253365
             }
@@ -582,13 +582,13 @@
     },
     "MIAIC": {
         "en": "Minister of Intergovernmental Affairs, Infrastructure and Communities",
-        "fr": "Ministre des affaires intergouvernementales, de l\u2019infrastructure et des collectivit\u00e9s",
+        "fr": "Ministre des affaires intergouvernementales, de l’infrastructure et des collectivités",
         "ministers": [
             {
                 "end_date": "2023-07-26T10:29:59",
                 "name": "Dominic LeBlanc",
                 "name_en": "LeBlanc, Dominic (Hon.)",
-                "name_fr": "LeBlanc, Dominic (L\u2019hon.)",
+                "name_fr": "LeBlanc, Dominic (L’hon.)",
                 "start_date": "2021-10-26T10:30:00",
                 "witness_id": 263834
             }
@@ -596,13 +596,13 @@
     },
     "MIC": {
         "en": "Minister of Infrastructure and Communities",
-        "fr": "Ministre de l'Infrastructure et des Collectivit\u00e9s",
+        "fr": "Ministre de l'Infrastructure et des Collectivités",
         "ministers": [
             {
                 "end_date": "2021-10-26T10:29:59",
                 "name": "Catherine McKenna",
                 "name_en": "McKenna, Catherine (Hon.)",
-                "name_fr": "McKenna, Catherine (L\u2019hon.)",
+                "name_fr": "McKenna, Catherine (L’hon.)",
                 "start_date": "2019-11-20T15:00:00",
                 "witness_id": 253366
             }
@@ -610,13 +610,13 @@
     },
     "MID": {
         "en": "Minister of International Development",
-        "fr": "Ministre du D\u00e9veloppement international",
+        "fr": "Ministre du Développement international",
         "ministers": [
             {
                 "end_date": "",
                 "name": "Ahmed Hussen",
                 "name_en": "Hussen, Ahmed (Hon.)",
-                "name_fr": "Hussen, Ahmed (L\u2019hon.)",
+                "name_fr": "Hussen, Ahmed (L’hon.)",
                 "start_date": "2023-07-26T10:30:00",
                 "witness_id": 300012
             },
@@ -624,7 +624,7 @@
                 "end_date": "2023-07-26T10:29:59",
                 "name": "Harjit S. Sajjan",
                 "name_en": "Sajjan, Harjit S. (Hon.)",
-                "name_fr": "Sajjan, Harjit S. (L\u2019hon.)",
+                "name_fr": "Sajjan, Harjit S. (L’hon.)",
                 "start_date": "2021-10-26T10:30:00",
                 "witness_id": 300020
             },
@@ -632,7 +632,7 @@
                 "end_date": "2021-10-26T10:29:59",
                 "name": "Karina Gould",
                 "name_en": "Gould, Karina (Hon.)",
-                "name_fr": "Gould, Karina (L\u2019hon.)",
+                "name_fr": "Gould, Karina (L’hon.)",
                 "start_date": "2019-11-20T15:00:00",
                 "witness_id": 253393
             }
@@ -640,13 +640,13 @@
     },
     "MIRC": {
         "en": "Minister of Immigration, Refugees and Citizenship",
-        "fr": "Ministre de l\u2019Immigration, des R\u00e9fugi\u00e9s et de la Citoyennet\u00e9",
+        "fr": "Ministre de l’Immigration, des Réfugiés et de la Citoyenneté",
         "ministers": [
             {
                 "end_date": "",
                 "name": "Marc Miller",
                 "name_en": "Miller, Marc (Hon.)",
-                "name_fr": "Miller, Marc (L\u2019hon.)",
+                "name_fr": "Miller, Marc (L’hon.)",
                 "start_date": "2023-07-26T10:30:00",
                 "witness_id": 253378
             },
@@ -654,7 +654,7 @@
                 "end_date": "2023-07-26T10:29:59",
                 "name": "Sean Fraser",
                 "name_en": "Fraser, Sean (Hon.)",
-                "name_fr": "Fraser, Sean (L\u2019hon.)",
+                "name_fr": "Fraser, Sean (L’hon.)",
                 "start_date": "2021-10-26T10:30:00",
                 "witness_id": 278908
             },
@@ -662,7 +662,7 @@
                 "end_date": "2021-10-26T10:29:59",
                 "name": "Marco Mendicino",
                 "name_en": "Mendicino, Marco (Hon.)",
-                "name_fr": "Mendicino, Marco (L\u2019hon.)",
+                "name_fr": "Mendicino, Marco (L’hon.)",
                 "start_date": "2019-11-20T15:00:00",
                 "witness_id": 278921
             }
@@ -676,7 +676,7 @@
                 "end_date": "",
                 "name": "Patty Hajdu",
                 "name_en": "Hajdu, Patty (Hon.)",
-                "name_fr": "Hajdu, Patty (L\u2019hon.)",
+                "name_fr": "Hajdu, Patty (L’hon.)",
                 "start_date": "2021-10-26T10:30:00",
                 "witness_id": 278911
             },
@@ -684,7 +684,7 @@
                 "end_date": "2021-10-26T10:29:59",
                 "name": "Marc Miller",
                 "name_en": "Miller, Marc (Hon.)",
-                "name_fr": "Miller, Marc (L\u2019hon.)",
+                "name_fr": "Miller, Marc (L’hon.)",
                 "start_date": "2019-11-20T15:00:00",
                 "witness_id": 253378
             }
@@ -696,9 +696,9 @@
         "ministers": [
             {
                 "end_date": "",
-                "name": "Fran\u00e7ois-Philippe Champagne",
-                "name_en": "Champagne, Fran\u00e7ois-Philippe (Hon.)",
-                "name_fr": "Champagne, Fran\u00e7ois-Philippe (L\u2019hon.)",
+                "name": "François-Philippe Champagne",
+                "name_en": "Champagne, François-Philippe (Hon.)",
+                "name_fr": "Champagne, François-Philippe (L’hon.)",
                 "start_date": "2021-01-12T00:00:00",
                 "witness_id": 271243
             },
@@ -706,7 +706,7 @@
                 "end_date": "2021-01-12T23:59:59",
                 "name": "Navdeep Bains",
                 "name_en": "Bains, Navdeep (Hon.)",
-                "name_fr": "Bains, Navdeep (L\u2019hon.)",
+                "name_fr": "Bains, Navdeep (L’hon.)",
                 "start_date": "2019-11-20T15:00:00",
                 "witness_id": 253394
             }
@@ -720,7 +720,7 @@
                 "end_date": "2021-10-26T10:29:59",
                 "name": "Mary Ng",
                 "name_en": "Ng, Mary (Hon.)",
-                "name_fr": "Ng, Mary (L\u2019hon.)",
+                "name_fr": "Ng, Mary (L’hon.)",
                 "start_date": "2019-11-20T15:00:00",
                 "witness_id": 253401
             }
@@ -728,13 +728,13 @@
     },
     "MITEPSBED": {
         "en": "Minister of International Trade, Export Promotion, Small Business and Economic Development",
-        "fr": "Ministre du commerce international, de la promotion des exportations, de la petite entreprise et du d\u00e9veloppement \u00e9conomique",
+        "fr": "Ministre du commerce international, de la promotion des exportations, de la petite entreprise et du développement économique",
         "ministers": [
             {
                 "end_date": "2023-07-26T10:29:59",
                 "name": "Mary Ng",
                 "name_en": "Ng, Mary (Hon.)",
-                "name_fr": "Ng, Mary (L\u2019hon.)",
+                "name_fr": "Ng, Mary (L’hon.)",
                 "start_date": "2021-10-26T10:30:00",
                 "witness_id": 253401
             }
@@ -748,7 +748,7 @@
                 "end_date": "",
                 "name": "Arif Virani",
                 "name_en": "Virani, Arif (Hon.)",
-                "name_fr": "Virani, Arif (L\u2019hon.)",
+                "name_fr": "Virani, Arif (L’hon.)",
                 "start_date": "2023-07-26T10:30:00",
                 "witness_id": 299999
             },
@@ -756,7 +756,7 @@
                 "end_date": "2023-07-26T10:29:59",
                 "name": "David Lametti",
                 "name_en": "Lametti, David (Hon.)",
-                "name_fr": "Lametti, David (L\u2019hon.)",
+                "name_fr": "Lametti, David (L’hon.)",
                 "start_date": "2019-01-14T10:00:01",
                 "witness_id": 278945
             }
@@ -770,7 +770,7 @@
                 "end_date": "2023-07-26T10:29:59",
                 "name": "Seamus O'Regan",
                 "name_en": "O'Regan, Seamus (Hon.)",
-                "name_fr": "O'Regan, Seamus (L\u2019hon.)",
+                "name_fr": "O'Regan, Seamus (L’hon.)",
                 "start_date": "2021-10-26T10:30:00",
                 "witness_id": 253374
             },
@@ -778,20 +778,20 @@
                 "end_date": "2021-10-26T10:29:59",
                 "name": "Filomena Tassi",
                 "name_en": "Tassi, Filomena (Hon.)",
-                "name_fr": "Tassi, Filomena (L\u2019hon.)",
+                "name_fr": "Tassi, Filomena (L’hon.)",
                 "start_date": "2019-11-20T15:00:00"
             }
         ]
     },
     "MLS": {
         "en": "Minister of Labour and Seniors",
-        "fr": "Ministre du travail et des a\u00een\u00e9s",
+        "fr": "Ministre du travail et des aînés",
         "ministers": [
             {
                 "end_date": "",
                 "name": "Seamus O'Regan",
                 "name_en": "O'Regan, Seamus (Hon.)",
-                "name_fr": "O'Regan, Seamus (L\u2019hon.)",
+                "name_fr": "O'Regan, Seamus (L’hon.)",
                 "start_date": "2023-07-26T10:30:00",
                 "witness_id": 253374
             }
@@ -799,13 +799,13 @@
     },
     "MMCP": {
         "en": "Minister of Middle Class Prosperity",
-        "fr": "Ministre de la Prosp\u00e9rit\u00e9 de la classe moyenne",
+        "fr": "Ministre de la Prospérité de la classe moyenne",
         "ministers": [
             {
                 "end_date": "2021-10-26T10:29:59",
                 "name": "Mona Fortier",
                 "name_en": "Fortier, Mona (Hon.)",
-                "name_fr": "Fortier, Mona (L\u2019hon.)",
+                "name_fr": "Fortier, Mona (L’hon.)",
                 "start_date": "2019-11-20T15:00:00",
                 "witness_id": 278907
             }
@@ -813,13 +813,13 @@
     },
     "MMHA": {
         "en": "Minister of Mental Health and Addictions",
-        "fr": "Ministre de la sant\u00e9 mentale et des d\u00e9pendances",
+        "fr": "Ministre de la santé mentale et des dépendances",
         "ministers": [
             {
                 "end_date": "",
                 "name": "Ya'ara Saks",
                 "name_en": "Saks, Ya'ara (Hon.)",
-                "name_fr": "Saks, Ya'ara (L\u2019hon.)",
+                "name_fr": "Saks, Ya'ara (L’hon.)",
                 "start_date": "2023-07-26T10:30:00",
                 "witness_id": 300007
             },
@@ -827,7 +827,7 @@
                 "end_date": "2023-07-26T10:29:59",
                 "name": "Carolyn Bennett",
                 "name_en": "Bennett, Carolyn (Hon.)",
-                "name_fr": "Bennett, Carolyn (L\u2019hon.)",
+                "name_fr": "Bennett, Carolyn (L’hon.)",
                 "start_date": "2021-10-26T10:30:00",
                 "witness_id": 278939
             }
@@ -841,7 +841,7 @@
                 "end_date": "",
                 "name": "Dan Vandal",
                 "name_en": "Vandal, Dan (Hon.)",
-                "name_fr": "Vandal, Dan (L\u2019hon.)",
+                "name_fr": "Vandal, Dan (L’hon.)",
                 "start_date": "2019-11-20T15:00:00",
                 "witness_id": 253397
             }
@@ -849,13 +849,13 @@
     },
     "MND": {
         "en": "Minister of National Defence",
-        "fr": "Ministre de la D\u00e9fense nationale",
+        "fr": "Ministre de la Défense nationale",
         "ministers": [
             {
                 "end_date": "",
                 "name": "Bill Blair",
                 "name_en": "Blair, Bill (Hon.)",
-                "name_fr": "Blair, Bill (L\u2019hon.)",
+                "name_fr": "Blair, Bill (L’hon.)",
                 "start_date": "2023-07-26T10:30:00",
                 "witness_id": 278903
             },
@@ -863,7 +863,7 @@
                 "end_date": "2023-07-26T10:29:59",
                 "name": "Anita Anand",
                 "name_en": "Anand, Anita (Hon.)",
-                "name_fr": "Anand, Anita (L\u2019hon.)",
+                "name_fr": "Anand, Anita (L’hon.)",
                 "start_date": "2021-10-26T10:30:00",
                 "witness_id": 300030
             },
@@ -871,7 +871,7 @@
                 "end_date": "2021-10-26T10:29:59",
                 "name": "Harjit S. Sajjan",
                 "name_en": "Sajjan, Harjit S. (Hon.)",
-                "name_fr": "Sajjan, Harjit S. (L\u2019hon.)",
+                "name_fr": "Sajjan, Harjit S. (L’hon.)",
                 "start_date": "2015-11-04T10:45:00",
                 "witness_id": 300020
             }
@@ -885,14 +885,14 @@
                 "end_date": "",
                 "name": "Marie-Claude Bibeau",
                 "name_en": "Bibeau, Marie-Claude (Hon.)",
-                "name_fr": "Bibeau, Marie-Claude (L\u2019hon.)",
+                "name_fr": "Bibeau, Marie-Claude (L’hon.)",
                 "start_date": "2023-07-26T10:30:00"
             },
             {
                 "end_date": "2023-07-26T10:29:59",
                 "name": "Diane Lebouthillier",
                 "name_en": "Lebouthillier, Diane (Hon.)",
-                "name_fr": "Lebouthillier, Diane (L\u2019hon.)",
+                "name_fr": "Lebouthillier, Diane (L’hon.)",
                 "start_date": "2015-11-04T10:45:00",
                 "witness_id": 278637
             }
@@ -906,7 +906,7 @@
                 "end_date": "2023-07-26T10:29:59",
                 "name": "Jonathan Wilkinson",
                 "name_en": "Wilkinson, Jonathan (Hon.)",
-                "name_fr": "Wilkinson, Jonathan (L\u2019hon.)",
+                "name_fr": "Wilkinson, Jonathan (L’hon.)",
                 "start_date": "2021-10-26T10:30:00",
                 "witness_id": 278937
             },
@@ -914,7 +914,7 @@
                 "end_date": "2021-10-26T10:29:59",
                 "name": "Seamus O'Regan",
                 "name_en": "O'Regan, Seamus (Hon.)",
-                "name_fr": "O'Regan, Seamus (L\u2019hon.)",
+                "name_fr": "O'Regan, Seamus (L’hon.)",
                 "start_date": "2019-11-20T15:00:00",
                 "witness_id": 253374
             }
@@ -928,15 +928,15 @@
                 "end_date": "2023-07-26T10:29:59",
                 "name": "Ginette Petitpas Taylor",
                 "name_en": "Petitpas Taylor, Ginette (Hon.)",
-                "name_fr": "Petitpas Taylor, Ginette (L\u2019hon.)",
+                "name_fr": "Petitpas Taylor, Ginette (L’hon.)",
                 "start_date": "2021-10-26T10:30:00",
                 "witness_id": 300036
             },
             {
                 "end_date": "2021-10-26T10:29:59",
-                "name": "M\u00e9lanie Joly",
-                "name_en": "Joly, M\u00e9lanie (Hon.)",
-                "name_fr": "Joly, M\u00e9lanie (L\u2019hon.)",
+                "name": "Mélanie Joly",
+                "name_en": "Joly, Mélanie (Hon.)",
+                "name_fr": "Joly, Mélanie (L’hon.)",
                 "start_date": "2019-11-20T15:00:00",
                 "witness_id": 253380
             }
@@ -944,13 +944,13 @@
     },
     "MPS": {
         "en": "Minister of Public Safety",
-        "fr": "Ministre de la s\u00e9curit\u00e9 publique",
+        "fr": "Ministre de la sécurité publique",
         "ministers": [
             {
                 "end_date": "2023-07-26T10:29:59",
                 "name": "Marco Mendicino",
                 "name_en": "Mendicino, Marco (Hon.)",
-                "name_fr": "Mendicino, Marco (L\u2019hon.)",
+                "name_fr": "Mendicino, Marco (L’hon.)",
                 "start_date": "2021-10-26T10:30:00",
                 "witness_id": 278921
             }
@@ -958,13 +958,13 @@
     },
     "MPSDIIA": {
         "en": "Minister of Public Safety, Democratic Institutions and Intergovernmental Affairs",
-        "fr": "Ministre de la s\u00e9curit\u00e9 publique, des institutions d\u00e9mocratiques et des affaires intergouvernementales",
+        "fr": "Ministre de la sécurité publique, des institutions démocratiques et des affaires intergouvernementales",
         "ministers": [
             {
                 "end_date": "",
                 "name": "Dominic LeBlanc",
                 "name_en": "LeBlanc, Dominic (Hon.)",
-                "name_fr": "LeBlanc, Dominic (L\u2019hon.)",
+                "name_fr": "LeBlanc, Dominic (L’hon.)",
                 "start_date": "2023-07-26T10:30:00",
                 "witness_id": 263834
             }
@@ -972,13 +972,13 @@
     },
     "MPSEP": {
         "en": "Minister of Public Safety and Emergency Preparedness",
-        "fr": "Ministre de la S\u00e9curit\u00e9 publique et de la Protection civile",
+        "fr": "Ministre de la Sécurité publique et de la Protection civile",
         "ministers": [
             {
                 "end_date": "2021-10-26T10:29:59",
                 "name": "Bill Blair",
                 "name_en": "Blair, Bill (Hon.)",
-                "name_fr": "Blair, Bill (L\u2019hon.)",
+                "name_fr": "Blair, Bill (L’hon.)",
                 "start_date": "2019-11-20T15:00:00",
                 "witness_id": 278903
             }
@@ -986,13 +986,13 @@
     },
     "MPSP": {
         "en": "Minister of Public Services and Procurement",
-        "fr": "Ministre des Services publics et de l\u2019Approvisionnement",
+        "fr": "Ministre des Services publics et de l’Approvisionnement",
         "ministers": [
             {
                 "end_date": "",
                 "name": "Jean-Yves Duclos",
                 "name_en": "Duclos, Jean-Yves (Hon.)",
-                "name_fr": "Duclos, Jean-Yves (L\u2019hon.)",
+                "name_fr": "Duclos, Jean-Yves (L’hon.)",
                 "start_date": "2023-07-26T10:30:00",
                 "witness_id": 253369
             },
@@ -1000,21 +1000,21 @@
                 "end_date": "2023-07-26T10:29:59",
                 "name": "Helena Jaczek",
                 "name_en": "Jaczek, Helena (Hon.)",
-                "name_fr": "Jaczek, Helena (L\u2019hon.)",
+                "name_fr": "Jaczek, Helena (L’hon.)",
                 "start_date": "2022-08-31T10:30:01"
             },
             {
                 "end_date": "2022-08-31T10:30:00",
                 "name": "Filomena Tassi",
                 "name_en": "Tassi, Filomena (Hon.)",
-                "name_fr": "Tassi, Filomena (L\u2019hon.)",
+                "name_fr": "Tassi, Filomena (L’hon.)",
                 "start_date": "2021-10-26T10:30:00"
             },
             {
                 "end_date": "2021-10-26T10:29:59",
                 "name": "Anita Anand",
                 "name_en": "Anand, Anita (Hon.)",
-                "name_fr": "Anand, Anita (L\u2019hon.)",
+                "name_fr": "Anand, Anita (L’hon.)",
                 "start_date": "2019-11-20T15:00:00",
                 "witness_id": 300030
             }
@@ -1022,13 +1022,13 @@
     },
     "MRACOA": {
         "en": "Minister responsible for the Atlantic Canada Opportunities Agency",
-        "fr": "Ministre responsable de l\u2019agence de promotion \u00e9conomique du canada atlantique",
+        "fr": "Ministre responsable de l’agence de promotion économique du canada atlantique",
         "ministers": [
             {
                 "end_date": "",
                 "name": "Gudie Hutchings",
                 "name_en": "Hutchings, Gudie (Hon.)",
-                "name_fr": "Hutchings, Gudie (L\u2019hon.)",
+                "name_fr": "Hutchings, Gudie (L’hon.)",
                 "start_date": "2023-07-26T10:30:00",
                 "witness_id": 278915
             },
@@ -1036,7 +1036,7 @@
                 "end_date": "2023-07-26T10:29:59",
                 "name": "Ginette Petitpas Taylor",
                 "name_en": "Petitpas Taylor, Ginette (Hon.)",
-                "name_fr": "Petitpas Taylor, Ginette (L\u2019hon.)",
+                "name_fr": "Petitpas Taylor, Ginette (L’hon.)",
                 "start_date": "2021-10-26T10:30:00",
                 "witness_id": 300036
             }
@@ -1044,13 +1044,13 @@
     },
     "MRCNEDA": {
         "en": "Minister responsible for the Canadian Northern Economic Development Agency",
-        "fr": "Ministre responsable de l\u2019agence canadienne de d\u00e9veloppement \u00e9conomique du nord",
+        "fr": "Ministre responsable de l’agence canadienne de développement économique du nord",
         "ministers": [
             {
                 "end_date": "",
                 "name": "Dan Vandal",
                 "name_en": "Vandal, Dan (Hon.)",
-                "name_fr": "Vandal, Dan (L\u2019hon.)",
+                "name_fr": "Vandal, Dan (L’hon.)",
                 "start_date": "2021-10-26T10:30:00",
                 "witness_id": 253397
             }
@@ -1058,13 +1058,13 @@
     },
     "MRED": {
         "en": "Minister of Rural Economic Development",
-        "fr": "Ministre du D\u00e9veloppement \u00e9conomique rural",
+        "fr": "Ministre du Développement économique rural",
         "ministers": [
             {
                 "end_date": "",
                 "name": "Gudie Hutchings",
                 "name_en": "Hutchings, Gudie (Hon.)",
-                "name_fr": "Hutchings, Gudie (L\u2019hon.)",
+                "name_fr": "Hutchings, Gudie (L’hon.)",
                 "start_date": "2021-10-26T10:30:00",
                 "witness_id": 278915
             },
@@ -1072,7 +1072,7 @@
                 "end_date": "2021-10-26T10:29:59",
                 "name": "Maryam Monsef",
                 "name_en": "Monsef, Maryam (Hon.)",
-                "name_fr": "Monsef, Maryam (L\u2019hon.)",
+                "name_fr": "Monsef, Maryam (L’hon.)",
                 "start_date": "2019-11-20T15:00:00",
                 "witness_id": 253407
             }
@@ -1080,20 +1080,20 @@
     },
     "MREDACRQ": {
         "en": "Minister responsible for the Economic Development Agency of Canada for the Regions of Quebec",
-        "fr": "Ministre responsable de l\u2019agence de d\u00e9veloppement \u00e9conomique du canada pour les r\u00e9gions du qu\u00e9bec",
+        "fr": "Ministre responsable de l’agence de développement économique du canada pour les régions du québec",
         "ministers": [
             {
                 "end_date": "",
                 "name": "Soraya Martinez Ferrada",
                 "name_en": "Martinez Ferrada, Soraya (Hon.)",
-                "name_fr": "Martinez Ferrada, Soraya (L\u2019hon.)",
+                "name_fr": "Martinez Ferrada, Soraya (L’hon.)",
                 "start_date": "2023-07-26T10:30:00"
             },
             {
                 "end_date": "2023-07-26T10:29:59",
                 "name": "Pascale St-Onge",
                 "name_en": "St-Onge, Pascale (Hon.)",
-                "name_fr": "St-Onge, Pascale (L\u2019hon.)",
+                "name_fr": "St-Onge, Pascale (L’hon.)",
                 "start_date": "2021-10-26T10:30:00",
                 "witness_id": 278949
             }
@@ -1101,13 +1101,13 @@
     },
     "MRFEDANO": {
         "en": "Minister responsible for the Federal Economic Development Agency for Northern Ontario",
-        "fr": "Ministre responsable de l\u2019agence f\u00e9d\u00e9rale de d\u00e9veloppement \u00e9conomique pour le nord de l\u2019ontario",
+        "fr": "Ministre responsable de l’agence fédérale de développement économique pour le nord de l’ontario",
         "ministers": [
             {
                 "end_date": "",
                 "name": "Patty Hajdu",
                 "name_en": "Hajdu, Patty (Hon.)",
-                "name_fr": "Hajdu, Patty (L\u2019hon.)",
+                "name_fr": "Hajdu, Patty (L’hon.)",
                 "start_date": "2021-10-26T10:30:00",
                 "witness_id": 278911
             }
@@ -1115,33 +1115,33 @@
     },
     "MRFEDASO": {
         "en": "Minister responsible for the Federal Economic Development Agency for Southern Ontario",
-        "fr": "Ministre responsable de l\u2019agence f\u00e9d\u00e9rale de d\u00e9veloppement \u00e9conomique pour le sud de l\u2019ontario",
+        "fr": "Ministre responsable de l’agence fédérale de développement économique pour le sud de l’ontario",
         "ministers": [
             {
                 "end_date": "",
                 "name": "Filomena Tassi",
                 "name_en": "Tassi, Filomena (Hon.)",
-                "name_fr": "Tassi, Filomena (L\u2019hon.)",
+                "name_fr": "Tassi, Filomena (L’hon.)",
                 "start_date": "2022-08-31T10:30:01"
             },
             {
                 "end_date": "2022-08-31T10:30:00",
                 "name": "Helena Jaczek",
                 "name_en": "Jaczek, Helena (Hon.)",
-                "name_fr": "Jaczek, Helena (L\u2019hon.)",
+                "name_fr": "Jaczek, Helena (L’hon.)",
                 "start_date": "2021-10-26T10:30:00"
             }
         ]
     },
     "MRPEDAC": {
         "en": "Minister responsible for the Pacific Economic Development Agency of Canada",
-        "fr": "Ministre responsable de l\u2019agence de d\u00e9veloppement \u00e9conomique du pacifique canada",
+        "fr": "Ministre responsable de l’agence de développement économique du pacifique canada",
         "ministers": [
             {
                 "end_date": "",
                 "name": "Harjit S. Sajjan",
                 "name_en": "Sajjan, Harjit S. (Hon.)",
-                "name_fr": "Sajjan, Harjit S. (L\u2019hon.)",
+                "name_fr": "Sajjan, Harjit S. (L’hon.)",
                 "start_date": "2021-10-26T10:30:00",
                 "witness_id": 300020
             }
@@ -1149,13 +1149,13 @@
     },
     "MRPEDC": {
         "en": "Minister responsible for Prairies Economic Development Canada",
-        "fr": "Ministre responsable de d\u00e9veloppement \u00e9conomique canada pour les prairies",
+        "fr": "Ministre responsable de développement économique canada pour les prairies",
         "ministers": [
             {
                 "end_date": "",
                 "name": "Dan Vandal",
                 "name_en": "Vandal, Dan (Hon.)",
-                "name_fr": "Vandal, Dan (L\u2019hon.)",
+                "name_fr": "Vandal, Dan (L’hon.)",
                 "start_date": "2021-10-26T10:30:00",
                 "witness_id": 253397
             }
@@ -1163,13 +1163,13 @@
     },
     "MS": {
         "en": "Minister of Seniors",
-        "fr": "Ministre des A\u00een\u00e9s",
+        "fr": "Ministre des Aînés",
         "ministers": [
             {
                 "end_date": "2023-07-26T10:29:59",
                 "name": "Kamal Khera",
                 "name_en": "Khera, Kamal (Hon.)",
-                "name_fr": "Khera, Kamal (L\u2019hon.)",
+                "name_fr": "Khera, Kamal (L’hon.)",
                 "start_date": "2021-10-26T10:30:00",
                 "witness_id": 278919
             },
@@ -1177,7 +1177,7 @@
                 "end_date": "2021-10-26T10:29:59",
                 "name": "Deb Schulte",
                 "name_en": "Schulte, Deb (Hon.)",
-                "name_fr": "Schulte, Deb (L\u2019hon.)",
+                "name_fr": "Schulte, Deb (L’hon.)",
                 "start_date": "2019-11-20T15:00:00",
                 "witness_id": 253377
             }
@@ -1191,7 +1191,7 @@
                 "end_date": "2023-07-26T10:29:59",
                 "name": "Pascale St-Onge",
                 "name_en": "St-Onge, Pascale (Hon.)",
-                "name_fr": "St-Onge, Pascale (L\u2019hon.)",
+                "name_fr": "St-Onge, Pascale (L’hon.)",
                 "start_date": "2021-10-26T10:30:00",
                 "witness_id": 278949
             }
@@ -1205,7 +1205,7 @@
                 "end_date": "",
                 "name": "Rechie Valdez",
                 "name_en": "Valdez, Rechie (Hon.)",
-                "name_fr": "Valdez, Rechie (L\u2019hon.)",
+                "name_fr": "Valdez, Rechie (L’hon.)",
                 "start_date": "2023-07-26T10:30:00",
                 "witness_id": 300000
             }
@@ -1219,7 +1219,7 @@
                 "end_date": "2021-10-26T10:29:59",
                 "name": "Mary Ng",
                 "name_en": "Ng, Mary (Hon.)",
-                "name_fr": "Ng, Mary (L\u2019hon.)",
+                "name_fr": "Ng, Mary (L’hon.)",
                 "start_date": "2018-07-18T10:00:00",
                 "witness_id": 253401
             }
@@ -1227,13 +1227,13 @@
     },
     "MSPA": {
         "en": "Minister of Sport and Physical Activity",
-        "fr": "Ministre des sports et de l\u2019activit\u00e9 physique",
+        "fr": "Ministre des sports et de l’activité physique",
         "ministers": [
             {
                 "end_date": "",
                 "name": "Carla Qualtrough",
                 "name_en": "Qualtrough, Carla (Hon.)",
-                "name_fr": "Qualtrough, Carla (L\u2019hon.)",
+                "name_fr": "Qualtrough, Carla (L’hon.)",
                 "start_date": "2023-07-26T10:30:00",
                 "witness_id": 300028
             }
@@ -1247,7 +1247,7 @@
                 "end_date": "",
                 "name": "Pablo Rodriguez",
                 "name_en": "Rodriguez, Pablo (Hon.)",
-                "name_fr": "Rodriguez, Pablo (L\u2019hon.)",
+                "name_fr": "Rodriguez, Pablo (L’hon.)",
                 "start_date": "2023-07-26T10:30:00",
                 "witness_id": 300025
             },
@@ -1255,7 +1255,7 @@
                 "end_date": "2023-07-26T10:29:59",
                 "name": "Omar Alghabra",
                 "name_en": "Alghabra, Omar (Hon.)",
-                "name_fr": "Alghabra, Omar (L\u2019hon.)",
+                "name_fr": "Alghabra, Omar (L’hon.)",
                 "start_date": "2021-01-12T00:00:00",
                 "witness_id": 271245
             },
@@ -1263,7 +1263,7 @@
                 "end_date": "2021-01-11T23:59:59",
                 "name": "Marc Garneau",
                 "name_en": "Garneau, Marc (Hon.)",
-                "name_fr": "Garneau, Marc (L\u2019hon.)",
+                "name_fr": "Garneau, Marc (L’hon.)",
                 "start_date": "2015-11-04T10:45:00",
                 "witness_id": 214333
             }
@@ -1277,14 +1277,14 @@
                 "end_date": "",
                 "name": "Soraya Martinez Ferrada",
                 "name_en": "Martinez Ferrada, Soraya (Hon.)",
-                "name_fr": "Martinez Ferrada, Soraya (L\u2019hon.)",
+                "name_fr": "Martinez Ferrada, Soraya (L’hon.)",
                 "start_date": "2023-07-26T10:30:00"
             },
             {
                 "end_date": "2023-07-26T10:29:59",
                 "name": "Randy Boissonnault",
                 "name_en": "Boissonnault, Randy (Hon.)",
-                "name_fr": "Boissonnault, Randy (L\u2019hon.)",
+                "name_fr": "Boissonnault, Randy (L’hon.)",
                 "start_date": "2021-10-26T10:30:00"
             }
         ]
@@ -1297,7 +1297,7 @@
                 "end_date": "",
                 "name": "Ginette Petitpas Taylor",
                 "name_en": "Petitpas Taylor, Ginette (Hon.)",
-                "name_fr": "Petitpas Taylor, Ginette (L\u2019hon.)",
+                "name_fr": "Petitpas Taylor, Ginette (L’hon.)",
                 "start_date": "2023-07-26T10:30:00",
                 "witness_id": 300036
             },
@@ -1305,7 +1305,7 @@
                 "end_date": "2023-07-26T10:29:59",
                 "name": "Lawrence MacAulay",
                 "name_en": "MacAulay, Lawrence (Hon.)",
-                "name_fr": "MacAulay, Lawrence (L\u2019hon.)",
+                "name_fr": "MacAulay, Lawrence (L’hon.)",
                 "start_date": "2019-03-01T10:30:01",
                 "witness_id": 246259
             }
@@ -1313,13 +1313,13 @@
     },
     "MWGE": {
         "en": "Minister for Women and Gender Equality",
-        "fr": "Ministre des Femmes et de l\u2019\u00c9galit\u00e9 des genres",
+        "fr": "Ministre des Femmes et de l’Égalité des genres",
         "ministers": [
             {
                 "end_date": "2021-10-26T10:29:59",
                 "name": "Maryam Monsef",
                 "name_en": "Monsef, Maryam (Hon.)",
-                "name_fr": "Monsef, Maryam (L\u2019hon.)",
+                "name_fr": "Monsef, Maryam (L’hon.)",
                 "start_date": "2018-12-13T00:00:00",
                 "witness_id": 253407
             }
@@ -1327,27 +1327,27 @@
     },
     "MWGEY": {
         "en": "Minister for Women and Gender Equality and Youth",
-        "fr": "Ministre des femmes et de l\u2019\u00e9galit\u00e9 des genres et de la jeunesse",
+        "fr": "Ministre des femmes et de l’égalité des genres et de la jeunesse",
         "ministers": [
             {
                 "end_date": "",
                 "name": "Marci Ien",
                 "name_en": "Ien, Marci (Hon.)",
-                "name_fr": "Ien, Marci (L\u2019hon.)",
+                "name_fr": "Ien, Marci (L’hon.)",
                 "start_date": "2021-10-26T10:30:00",
                 "witness_id": 278916
             }
         ]
     },
     "PKPCC": {
-        "en": "President of the King\u2019s Privy Council for Canada",
-        "fr": "Pr\u00e9sident du conseil priv\u00e9 du roi pour le canada",
+        "en": "President of the King’s Privy Council for Canada",
+        "fr": "Président du conseil privé du roi pour le canada",
         "ministers": [
             {
                 "end_date": "",
                 "name": "Harjit S. Sajjan",
                 "name_en": "Sajjan, Harjit S. (Hon.)",
-                "name_fr": "Sajjan, Harjit S. (L\u2019hon.)",
+                "name_fr": "Sajjan, Harjit S. (L’hon.)",
                 "start_date": "2023-07-26T10:30:00",
                 "witness_id": 300020
             }
@@ -1361,21 +1361,21 @@
                 "end_date": "",
                 "name": "Justin Trudeau",
                 "name_en": "Trudeau, Justin (Right Hon.)",
-                "name_fr": "Trudeau, Justin (Le tr\u00e8s hon.)",
+                "name_fr": "Trudeau, Justin (Le très hon.)",
                 "start_date": "2015-11-04T10:45:00",
                 "witness_id": 214296
             }
         ]
     },
     "PQPCC": {
-        "en": "President of the Queen\u2019s Privy Council for Canada",
-        "fr": "Pr\u00e9sident du Conseil priv\u00e9 de la Reine pour le Canada",
+        "en": "President of the Queen’s Privy Council for Canada",
+        "fr": "Président du Conseil privé de la Reine pour le Canada",
         "ministers": [
             {
                 "end_date": "2022-10-10T23:59:59",
                 "name": "Bill Blair",
                 "name_en": "Blair, Bill (Hon.)",
-                "name_fr": "Blair, Bill (L\u2019hon.)",
+                "name_fr": "Blair, Bill (L’hon.)",
                 "start_date": "2021-10-26T10:30:00",
                 "witness_id": 278903
             },
@@ -1383,7 +1383,7 @@
                 "end_date": "2021-10-26T10:29:59",
                 "name": "Dominic LeBlanc",
                 "name_en": "LeBlanc, Dominic (Hon.)",
-                "name_fr": "LeBlanc, Dominic (L\u2019hon.)",
+                "name_fr": "LeBlanc, Dominic (L’hon.)",
                 "start_date": "2019-11-20T15:00:00",
                 "witness_id": 263834
             }
@@ -1391,13 +1391,13 @@
     },
     "PTB": {
         "en": "President of the Treasury Board",
-        "fr": "Pr\u00e9sident du Conseil du Tr\u00e9sor",
+        "fr": "Président du Conseil du Trésor",
         "ministers": [
             {
                 "end_date": "",
                 "name": "Anita Anand",
                 "name_en": "Anand, Anita (Hon.)",
-                "name_fr": "Anand, Anita (L\u2019hon.)",
+                "name_fr": "Anand, Anita (L’hon.)",
                 "start_date": "2023-07-26T10:30:00",
                 "witness_id": 300030
             },
@@ -1405,7 +1405,7 @@
                 "end_date": "2023-07-26T10:29:59",
                 "name": "Mona Fortier",
                 "name_en": "Fortier, Mona (Hon.)",
-                "name_fr": "Fortier, Mona (L\u2019hon.)",
+                "name_fr": "Fortier, Mona (L’hon.)",
                 "start_date": "2021-10-26T10:30:00",
                 "witness_id": 278907
             },
@@ -1413,7 +1413,7 @@
                 "end_date": "2021-10-26T10:29:59",
                 "name": "Jean-Yves Duclos",
                 "name_en": "Duclos, Jean-Yves (Hon.)",
-                "name_fr": "Duclos, Jean-Yves (L\u2019hon.)",
+                "name_fr": "Duclos, Jean-Yves (L’hon.)",
                 "start_date": "2019-11-20T15:00:00",
                 "witness_id": 253369
             }
@@ -1421,13 +1421,13 @@
     },
     "SRP": {
         "en": "Special Representative for the Prairies",
-        "fr": "Repr\u00e9sentant sp\u00e9cial pour les Prairies",
+        "fr": "Représentant spécial pour les Prairies",
         "ministers": [
             {
                 "end_date": "2021-10-26T10:29:59",
                 "name": "Jim Carr",
                 "name_en": "Carr, Jim (Hon.)",
-                "name_fr": "Carr, Jim (L\u2019hon.)",
+                "name_fr": "Carr, Jim (L’hon.)",
                 "start_date": "2021-01-12T00:00:00"
             }
         ]
