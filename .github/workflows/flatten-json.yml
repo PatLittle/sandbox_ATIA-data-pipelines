@@ -1,9 +1,6 @@
 name: Flatten JSON to CSV
 
 on:
-  push:
-    branches:
-      - main
   workflow_dispatch:
 
 jobs:
