@@ -51,7 +51,7 @@ for minister_en, minister_fr in zip(root_en.findall('.//Minister'), root_fr.find
     })
 
 # Step 3: Load the existing JSON file
-existing_json_path = '/mnt/data/minister (2).json'
+existing_json_path = 'minister.json'
 with open(existing_json_path, 'r', encoding='utf-8') as f:
     existing_data = json.load(f)
 
