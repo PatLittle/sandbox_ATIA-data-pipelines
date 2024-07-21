@@ -50,10 +50,10 @@ def main():
     # Add witness_id to each minister in the JSON data
     for department in ministers_json.values():
         add_witness_id_to_ministers(department['ministers'])
-
-    # Save the updated JSON to the same file
-    with open(json_path, 'w') as f:
-        json.dump(ministers_json, f, indent=4)
+ 
+ # Save the updated JSON to the same file with UTF-8 encoding
+    with open(json_path, 'w', encoding='utf-8') as f:
+        json.dump(ministers_json, f, indent=4, ensure_ascii=False)
 
     print(f'Updated CSV file saved to {ministers_csv_path}')
     print(f'Updated JSON file saved to {json_path}')
