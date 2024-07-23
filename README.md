@@ -9,9 +9,12 @@ graph TD
     C --> E[Filter witness meetings]
 
     subgraph Extract - refresh_ministers_json.py
-        I1[Fetch XML Data EN - https://www.ourcommons.ca/Members/en/ministries/xml]
-        I2[Fetch XML Data FR - https://www.ourcommons.ca/Members/fr/ministries/xml]
-        I3[Load Existing minister.json from ckanext-canada or current repo]
+        I1["Fetch XML Data EN - 
+         https://www.ourcommons.ca/Members/en/ministries/xml"]
+        I2["Fetch XML Data FR -
+         https://www.ourcommons.ca/Members/fr/ministries/xml"]
+        I3["Load Existing minister.json 
+        from ckanext-canada or current repo"]
     end
 
     subgraph Transform
