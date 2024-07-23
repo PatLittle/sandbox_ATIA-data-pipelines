@@ -48,3 +48,7 @@ graph TD
     C --> |Needs: update_ministers_with_witness_id| E
 
 ```
+| File | Flat Viewer |
+|--|--|
+|**minister_transition_binder_deadline.csv**  deadlines for ministerial transition materials to be published, based on 120 days after appointment.  | [![Static Badge](https://img.shields.io/badge/Open%20in%20Flatdata%20Viewer-FF00E8?style=for-the-badge&logo=github&logoColor=black)](https://flatgithub.com/PatLittle/sandbox_ATIA-data-pipelines?filename=minister_transition_binder_deadline.csv)|
+|**minister_parl_comm_deadlines.csv**  deadlines for Parliamentry Committee materials to be published, based on 120 days after appointment.  | [![Static Badge](https://img.shields.io/badge/Open%20in%20Flatdata%20Viewer-FF00E8?style=for-the-badge&logo=github&logoColor=black)](https://flatgithub.com/PatLittle/sandbox_ATIA-data-pipelines?filename=minister_parl_comm_deadlines.csv)|
