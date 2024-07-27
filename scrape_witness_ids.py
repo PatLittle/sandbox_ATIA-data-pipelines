@@ -58,9 +58,9 @@ def fetch_data(witness_id, index):
                 'Date': date,
                 'Time': time,
                 'Acronym': acronym,
-                'Notice Link': f"https://www.ourcommons.ca{notice_link}" if notice_link != "N/A" else "N/A",
-                'Evidence Link': f"https://www.ourcommons.ca{evidence_link}" if evidence_link != "N/A" else "N/A",
-                'Minutes Link': f"https://www.ourcommons.ca{minutes_link}" if minutes_link != "N/A" else "N/A"
+                'Notice Link': f"https:{notice_link}" if notice_link != "N/A" else "N/A",
+                'Evidence Link': f"https:{evidence_link}" if evidence_link != "N/A" else "N/A",
+                'Minutes Link': f"https:{minutes_link}" if minutes_link != "N/A" else "N/A"
             }
             meetings.append(meeting_data)
     return meetings
