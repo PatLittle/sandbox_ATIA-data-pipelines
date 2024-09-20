@@ -1275,6 +1275,15 @@
                 "name_fr": "Garneau, Marc (L’hon.)",
                 "start_date": "2015-11-04T10:45:00",
                 "witness_id": 214333
+            },
+            {
+                "name": "Anita Anand",
+                "name_en": "Anand, Anita (Hon.)",
+                "name_fr": "Anand, Anita (L’hon.)",
+                "title_en": "Minister of Transport",
+                "title_fr": "Ministre des Transports",
+                "start_date": "2024-09-19T11:11:00",
+                "end_date": ""
             }
         ]
     },
