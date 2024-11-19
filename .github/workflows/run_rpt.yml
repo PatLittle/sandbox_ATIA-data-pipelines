@@ -1,5 +1,4 @@
-name: Run Python Script and Commit CSV
-
+name: Find Reports tabled in HOC
 on:
   workflow_dispatch:
   schedule:
