@@ -147,7 +147,8 @@
                 "name": "Marie-Claude Bibeau",
                 "name_en": "Bibeau, Marie-Claude (Hon.)",
                 "name_fr": "Bibeau, Marie-Claude (L’hon.)",
-                "start_date": "2019-03-01T10:30:01"
+                "start_date": "2019-03-01T10:30:01",
+                "witness_id": 300001
             }
         ]
     },
@@ -895,7 +896,8 @@
                 "name": "Marie-Claude Bibeau",
                 "name_en": "Bibeau, Marie-Claude (Hon.)",
                 "name_fr": "Bibeau, Marie-Claude (L’hon.)",
-                "start_date": "2023-07-26T10:30:00"
+                "start_date": "2023-07-26T10:30:00",
+                "witness_id": 300001
             },
             {
                 "end_date": "2023-07-26T10:29:59",
