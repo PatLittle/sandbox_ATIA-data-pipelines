@@ -916,6 +916,15 @@
                 "name_fr": "Lebouthillier, Diane (L’hon.)",
                 "start_date": "2015-11-04T10:45:00",
                 "witness_id": 278637
+            },
+            {
+                "name": "Élisabeth Brière",
+                "name_en": "Brière, Élisabeth (Hon.)",
+                "name_fr": "Brière, Élisabeth (L'hon.)",
+                "title_en": "Minister of National Revenue",
+                "title_fr": "Ministre du Revenu national",
+                "start_date": "2024-12-20T11:30:00",
+                "end_date": ""
             }
         ]
     },
@@ -960,6 +969,15 @@
                 "name_fr": "Joly, Mélanie (L’hon.)",
                 "start_date": "2019-11-20T15:00:00",
                 "witness_id": 253380
+            },
+            {
+                "name": "Rachel Bendayan",
+                "name_en": "Bendayan, Rachel (Hon.)",
+                "name_fr": "Bendayan, Rachel (L'hon.)",
+                "title_en": "Minister of Official Languages",
+                "title_fr": "Ministre des Langues officielles",
+                "start_date": "2024-12-20T11:30:00",
+                "end_date": ""
             }
         ]
     },
@@ -1201,6 +1219,15 @@
                 "name_fr": "Schulte, Deb (L’hon.)",
                 "start_date": "2019-11-20T15:00:00",
                 "witness_id": 253377
+            },
+            {
+                "name": "Joanne Thompson",
+                "name_en": "Thompson, Joanne (Hon.)",
+                "name_fr": "Thompson, Joanne (L'hon.)",
+                "title_en": "Minister of Seniors",
+                "title_fr": "Ministre des Aînés",
+                "start_date": "2024-12-20T11:30:00",
+                "end_date": ""
             }
         ]
     },
@@ -1339,6 +1366,15 @@
                 "name_fr": "MacAulay, Lawrence (L’hon.)",
                 "start_date": "2019-03-01T10:30:01",
                 "witness_id": 246259
+            },
+            {
+                "name": "Darren Fisher",
+                "name_en": "Fisher, Darren (Hon.)",
+                "name_fr": "Fisher, Darren (L'hon.)",
+                "title_en": "Minister of Veterans Affairs",
+                "title_fr": "Ministre des Anciens Combattants",
+                "start_date": "2024-12-20T11:30:00",
+                "end_date": ""
             }
         ]
     },
