@@ -127,6 +127,15 @@
                 "name_fr": "Rodriguez, Pablo (L’hon.)",
                 "start_date": "2019-11-20T15:00:00",
                 "witness_id": 300025
+            },
+            {
+                "name": "Steven MacKinnon",
+                "name_en": "MacKinnon, Steven (Hon.)",
+                "name_fr": "MacKinnon, Steven (L’hon.)",
+                "title_en": "Leader of the Government in the House of Commons",
+                "title_fr": "Leader du gouvernement à la Chambre des communes",
+                "start_date": "2025-01-24T00:00:00",
+                "end_date": ""
             }
         ]
     },
