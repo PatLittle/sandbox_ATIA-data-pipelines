@@ -514,7 +514,8 @@
                 "title_en": "Minister of Finance",
                 "title_fr": "Ministre des Finances",
                 "start_date": "2025-03-14T11:31:00",
-                "end_date": ""
+                "end_date": "",
+                "witness_id": 271243
             }
         ]
     },
@@ -652,7 +653,8 @@
                 "title_en": "Minister of Health",
                 "title_fr": "Ministre de la Santé",
                 "start_date": "2025-03-14T11:31:00",
-                "end_date": ""
+                "end_date": "",
+                "witness_id": 278919
             }
         ]
     },
