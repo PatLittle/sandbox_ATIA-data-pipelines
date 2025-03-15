@@ -506,6 +506,15 @@
                 "name_fr": "Morneau, Bill (L’hon.)",
                 "start_date": "2015-11-04T10:45:00",
                 "witness_id": 214320
+            },
+            {
+                "name": "François-Philippe Champagne",
+                "name_en": "Champagne, François-Philippe (Hon.)",
+                "name_fr": "Champagne, François-Philippe (L’hon.)",
+                "title_en": "Minister of Finance",
+                "title_fr": "Ministre des Finances",
+                "start_date": "2025-03-14T11:31:00",
+                "end_date": ""
             }
         ]
     },
@@ -596,6 +605,15 @@
                 "name_fr": "Jordan, Bernadette (L’hon.)",
                 "start_date": "2019-11-20T15:00:00",
                 "witness_id": 253373
+            },
+            {
+                "name": "Joanne Thompson",
+                "name_en": "Thompson, Joanne (Hon.)",
+                "name_fr": "Thompson, Joanne (L'hon.)",
+                "title_en": "Minister of Fisheries, Oceans and the Canadian Coast Guard",
+                "title_fr": "Ministre des Pêches, des Océans et de la Garde côtière canadienne",
+                "start_date": "2025-03-14T11:31:00",
+                "end_date": ""
             }
         ]
     },
@@ -626,6 +644,15 @@
                 "name_fr": "Hajdu, Patty (L’hon.)",
                 "start_date": "2019-11-20T15:00:00",
                 "witness_id": 278911
+            },
+            {
+                "name": "Kamal Khera",
+                "name_en": "Khera, Kamal (Hon.)",
+                "name_fr": "Khera, Kamal (L’hon.)",
+                "title_en": "Minister of Health",
+                "title_fr": "Ministre de la Santé",
+                "start_date": "2025-03-14T11:31:00",
+                "end_date": ""
             }
         ]
     },
@@ -779,6 +806,15 @@
                 "name_fr": "Mendicino, Marco (L’hon.)",
                 "start_date": "2019-11-20T15:00:00",
                 "witness_id": 278921
+            },
+            {
+                "name": "Rachel Bendayan",
+                "name_en": "Bendayan, Rachel (Hon.)",
+                "name_fr": "Bendayan, Rachel (L'hon.)",
+                "title_en": "Minister of Immigration, Refugees and Citizenship",
+                "title_fr": "Ministre de l’Immigration, des Réfugiés et de la Citoyenneté",
+                "start_date": "2025-03-14T11:31:00",
+                "end_date": ""
             }
         ]
     },
@@ -1124,6 +1160,15 @@
                 "name_fr": "Blair, Bill (L’hon.)",
                 "start_date": "2019-11-20T15:00:00",
                 "witness_id": 278903
+            },
+            {
+                "name": "David McGuinty",
+                "name_en": "McGuinty, David (Hon.)",
+                "name_fr": "McGuinty, David (L’hon.)",
+                "title_en": "Minister of Public Safety and Emergency Preparedness",
+                "title_fr": "Ministre de la Sécurité publique et de la Protection civile",
+                "start_date": "2025-03-14T11:31:00",
+                "end_date": ""
             }
         ]
     },
@@ -1511,6 +1556,15 @@
                 "name_fr": "MacAulay, Lawrence (L’hon.)",
                 "start_date": "2019-03-01T10:30:01",
                 "witness_id": 246259
+            },
+            {
+                "name": "Élisabeth Brière",
+                "name_en": "Brière, Élisabeth (Hon.)",
+                "name_fr": "Brière, Élisabeth (L'hon.)",
+                "title_en": "Minister of Veterans Affairs",
+                "title_fr": "Ministre des Anciens Combattants",
+                "start_date": "2025-03-14T11:31:00",
+                "end_date": ""
             }
         ]
     },
@@ -1567,6 +1621,15 @@
                 "name_fr": "Trudeau, Justin (Le très hon.)",
                 "start_date": "2015-11-04T10:45:00",
                 "witness_id": 214296
+            },
+            {
+                "name": "Mark Carney",
+                "name_en": "Carney, Mark (Right Hon.)",
+                "name_fr": "Carney, Mark (Le très hon.)",
+                "title_en": "Prime Minister",
+                "title_fr": "Premier ministre",
+                "start_date": "2025-03-14T11:31:00",
+                "end_date": ""
             }
         ]
     },
