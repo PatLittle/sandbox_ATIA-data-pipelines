@@ -18,6 +18,15 @@
                 "name_fr": "Lametti, David (L’hon.)",
                 "start_date": "2019-01-14T10:00:01",
                 "witness_id": 278945
+            },
+            {
+                "name": "Gary Anandasangaree",
+                "name_en": "Anandasangaree, Gary (Hon.)",
+                "name_fr": "Anandasangaree, Gary (L’hon.)",
+                "title_en": "Attorney General of Canada",
+                "title_fr": "Procureur général du Canada",
+                "start_date": "2025-03-14T11:31:00",
+                "end_date": ""
             }
         ]
     },
@@ -169,6 +178,15 @@
                 "title_fr": "Leader du gouvernement à la Chambre des communes",
                 "start_date": "2025-01-24T00:00:00",
                 "end_date": ""
+            },
+            {
+                "name": "Arielle Kayabaga",
+                "name_en": "Kayabaga, Arielle (Hon.)",
+                "name_fr": "Kayabaga, Arielle (L'hon.)",
+                "title_en": "Leader of the Government in the House of Commons",
+                "title_fr": "Leader du gouvernement à la Chambre des communes",
+                "start_date": "2025-03-14T11:31:00",
+                "end_date": "2025-03-23T23:59:59"
             }
         ]
     },
