@@ -270,6 +270,15 @@
                 "name_fr": "Bennett, Carolyn (L’hon.)",
                 "start_date": "2017-08-28T13:12:00",
                 "witness_id": 278939
+            },
+            {
+                "name": "Rebecca Alty",
+                "name_en": "Alty, Rebecca (Hon.)",
+                "name_fr": "Alty, Rebecca (L’hon.)",
+                "title_en": "Minister of Crown-Indigenous Relations",
+                "title_fr": "Ministre des Relations Couronne-Autochtones",
+                "start_date": "2025-05-13T10:45:00",
+                "end_date": ""
             }
         ]
     },
@@ -565,6 +574,15 @@
                 "name_fr": "Champagne, François-Philippe (L’hon.)",
                 "start_date": "2019-11-20T15:00:00",
                 "witness_id": 271243
+            },
+            {
+                "name": "Anita Anand",
+                "name_en": "Anand, Anita (Hon.)",
+                "name_fr": "Anand, Anita (L’hon.)",
+                "title_en": "Minister of Foreign Affairs",
+                "title_fr": "Ministre des Affaires étrangères",
+                "start_date": "2025-05-13T10:45:00",
+                "end_date": ""
             }
         ]
     },
@@ -674,6 +692,15 @@
                 "start_date": "2025-03-14T11:31:00",
                 "end_date": "",
                 "witness_id": 278919
+            },
+            {
+                "name": "Marjorie Michel",
+                "name_en": "Michel, Marjorie (Hon.)",
+                "name_fr": "Michel, Marjorie (L’hon.)",
+                "title_en": "Minister of Health",
+                "title_fr": "Ministre de la Santé",
+                "start_date": "2025-05-13T10:45:00",
+                "end_date": ""
             }
         ]
     },
@@ -836,6 +863,15 @@
                 "title_fr": "Ministre de l’Immigration, des Réfugiés et de la Citoyenneté",
                 "start_date": "2025-03-14T11:31:00",
                 "end_date": ""
+            },
+            {
+                "name": "Lena Metlege Diab",
+                "name_en": "Diab, Lena Metlege (Hon.)",
+                "name_fr": "Diab, Lena Metlege (L’hon.)",
+                "title_en": "Minister of Immigration, Refugees and Citizenship",
+                "title_fr": "Ministre de l’Immigration, des Réfugiés et de la Citoyenneté",
+                "start_date": "2025-05-13T10:45:00",
+                "end_date": ""
             }
         ]
     },
@@ -858,6 +894,15 @@
                 "name_fr": "Miller, Marc (L’hon.)",
                 "start_date": "2019-11-20T15:00:00",
                 "witness_id": 253378
+            },
+            {
+                "name": "Mandy Gull-Masty",
+                "name_en": "Gull-Masty, Mandy (Hon.)",
+                "name_fr": "Gull-Masty, Mandy (L’hon.)",
+                "title_en": "Minister of Indigenous Services",
+                "title_fr": "Ministre des Services aux Autochtones",
+                "start_date": "2025-05-13T10:45:00",
+                "end_date": ""
             }
         ]
     },
@@ -894,6 +939,15 @@
                 "name_fr": "Ng, Mary (L’hon.)",
                 "start_date": "2019-11-20T15:00:00",
                 "witness_id": 253401
+            },
+            {
+                "name": "Maninder Sidhu",
+                "name_en": "Sidhu, Maninder (Hon.)",
+                "name_fr": "Sidhu, Maninder (L’hon.)",
+                "title_en": "Minister of International Trade",
+                "title_fr": "Ministre du Commerce international",
+                "start_date": "2025-05-13T10:45:00",
+                "end_date": ""
             }
         ]
     },
@@ -930,6 +984,15 @@
                 "name_fr": "Lametti, David (L’hon.)",
                 "start_date": "2019-01-14T10:00:01",
                 "witness_id": 278945
+            },
+            {
+                "name": "Sean Fraser",
+                "name_en": "Fraser, Sean (Hon.)",
+                "name_fr": "Fraser, Sean (L’hon.)",
+                "title_en": "Minister of Justice",
+                "title_fr": "Ministre de la Justice",
+                "start_date": "2025-05-13T10:45:00",
+                "end_date": ""
             }
         ]
     },
@@ -1052,6 +1115,15 @@
                 "name_fr": "Sajjan, Harjit S. (L’hon.)",
                 "start_date": "2015-11-04T10:45:00",
                 "witness_id": 300020
+            },
+            {
+                "name": "David McGuinty",
+                "name_en": "McGuinty, David (Hon.)",
+                "name_fr": "McGuinty, David (L’hon.)",
+                "title_en": "Minister of National Defence",
+                "title_fr": "Ministre de la Défense nationale",
+                "start_date": "2025-05-13T10:45:00",
+                "end_date": ""
             }
         ]
     },
@@ -1586,6 +1658,15 @@
                 "title_fr": "Ministre des Anciens Combattants",
                 "start_date": "2025-03-14T11:31:00",
                 "end_date": ""
+            },
+            {
+                "name": "Jill McKnight",
+                "name_en": "McKnight, Jill (Hon.)",
+                "name_fr": "McKnight, Jill (L’hon.)",
+                "title_en": "Minister of Veterans Affairs",
+                "title_fr": "Ministre des Anciens Combattants",
+                "start_date": "2025-05-13T10:45:00",
+                "end_date": ""
             }
         ]
     },
@@ -1711,6 +1792,15 @@
                 "name_fr": "Duclos, Jean-Yves (L’hon.)",
                 "start_date": "2019-11-20T15:00:00",
                 "witness_id": 253369
+            },
+            {
+                "name": "Shafqat Ali",
+                "name_en": "Ali, Shafqat (Hon.)",
+                "name_fr": "Ali, Shafqat (L’hon.)",
+                "title_en": "President of the Treasury Board",
+                "title_fr": "Président du Conseil du Trésor",
+                "start_date": "2025-05-13T10:45:00",
+                "end_date": ""
             }
         ]
     },
