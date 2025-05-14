@@ -582,7 +582,8 @@
                 "title_en": "Minister of Foreign Affairs",
                 "title_fr": "Ministre des Affaires étrangères",
                 "start_date": "2025-05-13T10:45:00",
-                "end_date": ""
+                "end_date": "",
+                "witness_id": 300030
             }
         ]
     },
@@ -992,7 +993,8 @@
                 "title_en": "Minister of Justice",
                 "title_fr": "Ministre de la Justice",
                 "start_date": "2025-05-13T10:45:00",
-                "end_date": ""
+                "end_date": "",
+                "witness_id": 278908
             }
         ]
     },
